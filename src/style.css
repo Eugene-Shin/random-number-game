@@ -1,0 +1,11 @@
+.defaultFont {
+  font-family: "Courier New", Courier, monospace;
+}
+
+.hidden {
+  display: none;
+}
+
+.paragraphSpace {
+  line-height: 0.25;
+}
